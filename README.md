@@ -4,7 +4,7 @@
 
 Rio API 提供一站式 AI 大模型接入服务，国内网络直连全球 200+ 顶尖 AI 模型，无需订阅，注册即用，畅连全球AI智能。
 
-‍
+![image](https://pic.riiio.top/image-20250427110121-r0xq9vd.png)​
 
 # 适合的用户
 
@@ -18,6 +18,10 @@ Rio API 提供一站式 AI 大模型接入服务，国内网络直连全球 200+
 
 # 开始使用
 
-[使用文档](./开始使用.md)
+[查看模型](https://api.riiio.chat/pricing)
+
+[使用文档](https://riodocs.super.site/getting-started)
+
+‍
 
 ‍
